@@ -1,0 +1,4 @@
+txtrecord:
+  name: "default._bimi"
+  value: "v=BIMI1; l=https://raw.githubusercontent.com/PrivacyHawk/privacyhawk-bimi/main/PrivacyHawk.svg; a=https://raw.githubusercontent.com/PrivacyHawk/privacyhawk-bimi/main/privacyhawk.pem;"
+  ttl: 3600
